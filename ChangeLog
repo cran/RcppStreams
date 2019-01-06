@@ -1,3 +1,32 @@
+2019-01-05  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Release 0.1.2
+
+2018-12-29  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/grammar.h: Convert from CRLF to CR
+	* inst/include/stream.h: Idem
+	* inst/include/strop.h: Idem
+	* inst/include/strop_func.h: Idem
+
+	* inst/include/operators.h: Added final newline
+	* inst/include/stream_base.h: Idem
+	* inst/include/strop_sliding_window.h: Idem
+	* inst/include/strop_stream_producer.h: Idem
+
+2018-12-22  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/engine.h (streamulus): Comment-out optional use of
+	boost::proto::display_expr which upsets the linker under Boost 1.69
+
+	* src/RcppExports.cpp: Regenerated to provide symbol registration
+	* R/RcppExports.R: Idem
+	* NAMESPACE: Add .registration=TRUE to useDynLib()
+
+2017-08-26  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .travis.yml (before_install): Use https for curl fetch
+
 2016-08-05  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version): New release 0.1.1

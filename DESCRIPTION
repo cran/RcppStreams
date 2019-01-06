@@ -2,8 +2,8 @@ Package: RcppStreams
 Type: Package
 Title: 'Rcpp' Integration of the 'Streamulus' 'DSEL' for Stream
         Processing
-Version: 0.1.1
-Date: 2016-08-05
+Version: 0.1.2
+Date: 2019-01-05
 Author: Dirk Eddelbuettel <edd@debian.org>
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Description: The 'Streamulus' (template, header-only) library by
@@ -19,6 +19,6 @@ Imports: Rcpp
 LinkingTo: Rcpp, BH
 RoxygenNote: 5.0.1
 NeedsCompilation: yes
-Packaged: 2016-08-05 12:02:51.289261 UTC; edd
+Packaged: 2019-01-06 01:57:46.10417 UTC; edd
 Repository: CRAN
-Date/Publication: 2016-08-05 15:11:33
+Date/Publication: 2019-01-06 23:50:02 UTC
