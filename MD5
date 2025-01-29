@@ -1,10 +1,10 @@
-30ce82eb42f69c46c47ec7d907c932dc *ChangeLog
-c8d2f28534f07f04b0040ef1f23145da *DESCRIPTION
+b7257479e20dbd265de963384eb9d11b *ChangeLog
+1e28c010a89ffbbc81b41367e2d2d52b *DESCRIPTION
 15f9e3e4370454f291e533295c03ec65 *NAMESPACE
 1e18e3b98755f70ab6f34db4c40c94f4 *R/RcppExports.R
-d2ec370669d901c6cf6291dc422f1fc5 *README.md
+98267c0ae79d1575c5e5b424a53c9f41 *README.md
 819f6eefcd0a9f205022812bb696e77e *cleanup
-df0484e5f983cb1180c8606399f391c6 *inst/NEWS.Rd
+d4e16cd5e8dc6d196e46f2dc8ba9b753 *inst/NEWS.Rd
 8f158ff01761776d5aa92f17b2f0f9d2 *inst/examples/A_hello_world.cpp
 7490cbe7f8cbc4635a89d4e0ecf1146e *inst/examples/B_common_subexpression.cpp
 10fa979c19c87e1d0703c7bd46d7cc0f *inst/examples/C_user_defined_functions_and_filters.cpp
@@ -46,7 +46,7 @@ e69366aa575b8c54bfdbd3bde97ff9a5 *man/commonSubexpressions.Rd
 d2271065d4fb8e566f1516aba1f1806b *man/crossAlert.Rd
 dedd20ba994e873a33f25cc4719ba2d9 *man/helloStream.Rd
 cc3dc70a60181ae4a5170f364e9fa921 *man/slidingWindow.Rd
-bae12699e02a1b80b22c483a8e517572 *src/Makevars
+4799ee590493e0d6a566b987783926d5 *src/Makevars
 46c728ee6362ce5bbc472f554582467a *src/RcppExports.cpp
 ca4028d516296c356cffba4508463b2d *src/common.cpp
 3ea0d0ae2374e82c2910a55f919cf6e8 *src/hello.cpp
